@@ -1,0 +1,33 @@
+.Social-Media {
+    display: flex;
+    justify-content: space-between;
+}
+ body { 
+     background-color: #ffb3ff;
+}
+img {
+    height: 450px;
+    border: 6px dotted purple;
+     padding:10px; 
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.dating-life-pic {
+    border: 6px dotted green;
+}
+
+.dating-life {
+    margin-top: 20px; 
+    display:flex; justify-content:flex-end;
+}
+.La-Familia-Castro {
+    height:400px;
+    border:50px solid #b3ecff;
+}
+
+   
